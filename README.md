@@ -1,4 +1,4 @@
-# Pokémon Emerald ROM Hack Project
+#ROM Hack Project
 
 Welcome to the **Pokémon Emerald ROM Hack** project! This repository contains the necessary tools, scripts, and resources to create a custom ROM hack for *Pokémon Emerald*. Our goal is to rewrite the story, introduce new features, and enhance the gameplay experience for all Pokémon fans.
 
